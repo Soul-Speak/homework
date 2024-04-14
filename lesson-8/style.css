@@ -1,0 +1,25 @@
+.one {
+    background: rgb(85, 69, 58);
+    color: white;
+}
+
+.red-block {
+    background: #f04a4a;
+    width: 100px;
+    height: 100px;
+}
+
+.first {
+    color: plum;
+    background: none;
+}
+
+.two {
+    background: rgb(255, 163, 255);
+    width: 300px;
+}
+
+span {
+    color: white;
+    background-color: purple;
+}
