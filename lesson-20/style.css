@@ -1,0 +1,22 @@
+.header {
+    background: rgb(255, 222, 75);
+    height: 60px;
+}
+
+.citata {
+    background: rgb(209, 209, 154);
+}
+
+.footer {
+    height: 300px;
+    background: plum;
+    color: white;
+}
+
+.head {
+    color: black;
+}
+
+a {
+    color: white;
+}
