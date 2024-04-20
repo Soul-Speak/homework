@@ -1,0 +1,48 @@
+body {
+    font-size: 40px;
+    background: #f3f3f6;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.block {
+    margin: 3vw;
+    height: 35vh;
+    width: 35vh;
+    box-shadow: 0 0.5vw 3vw #0615633b;
+    border-radius: 2vw;
+    background: #fff;
+    display: inline-block;
+}
+
+/* ---------------------------------------------------------------------------- */
+
+#nigga-1 {
+    background: url(../img/5d85e9512100005b00e708fe.jpeg) 50% / cover no-repeat;
+}
+
+#nigga-2 {
+    background: url(../img/CH9IxsFUcAA6tBE.jpg) 50% 0 / cover no-repeat;
+}
+
+#nigga-3 {
+    background: url(../img/Tyson_Beckfofd_Stand.jpg) 50% 10% / cover no-repeat;
+}
+
+#nigga-4 {
+    background: url(../img/MscWE5A-qcp41rjJDpquaZY9sRGgnDtWBPGlE1yMM326BnkHvAjoTNM5Akxtg2nVH8i4RJJE.jpg) 50% / cover no-repeat;
+}
+#nigga-5 {
+    background: url(../img/image_420_image_fr.jpg) 50% / cover no-repeat;
+}
+#nigga-6 {
+    background: url(../img/bdsmlr-1048021-SDRto8hvS2-og.jpg) 50% 0/ cover no-repeat;
+}
+#nigga-7 {
+    background: url(../img/1666120121_17-mykaleidoscope-ru-p-negr-v-shokolade-krasivo-20.jpg) 50% 10%/ cover no-repeat;
+}
+#nigga-8 {
+    background: url(../img/cf0e5a6a8886e5abe1423233a545424b.jpg) 50% / cover no-repeat;
+}
