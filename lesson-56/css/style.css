@@ -73,7 +73,7 @@ body {
 }
 
 .button--photo:focus {
-    background-image: url(img/photo_2024-02-12_23-04-16.jpg);
+    background-image: url(photo_2024-02-12_23-04-16.jpg);
     background-repeat: no-repeat;
     background-position: center;
     transition: 500ms;
