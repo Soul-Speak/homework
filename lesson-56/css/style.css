@@ -73,7 +73,7 @@ body {
 }
 
 .button--photo:focus {
-    background-image: url(https://mykaleidoscope.ru/x/uploads/posts/2022-10/1666389923_30-mykaleidoscope-ru-p-klassnaya-priroda-oboi-32.jpg) no-repeat center;
+    background: url(/img/photo_2024-02-12_23-04-16.jpg) no-repeat center;
     transition: 500ms;
 }
 
