@@ -13,8 +13,8 @@ while(i2 < 12) {
     console.log(i2)
 }
 
-let i3 = 11
-while(i3 >= 2) {
-    i3 = i3 - 1
+let i3 = 10
+while(i3 >= 1) {
     console.log(i3)
+    i3 = i3 - 1
 }
